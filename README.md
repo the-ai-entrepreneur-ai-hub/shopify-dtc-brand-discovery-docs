@@ -2,11 +2,11 @@
 
 ![Sketch-note formula](covers/sketchnote-formula.png)
 
-[![Apify](https://img.shields.io/badge/Apify-Standby_API-1f8f4d)](https://apify.com/george.the.developer/shopify-dtc-brand-discovery) [![Pricing](https://img.shields.io/badge/Pricing-Pay_per_result-blue)](#pricing) [![Built for](https://img.shields.io/badge/Built_for-DTC_growth_agencies-orange)](#use-cases)
+[![Apify](https://img.shields.io/badge/Apify-Standby_API-1f8f4d)](https://apify.com/george.the.developer/shopify-dtc-brand-discovery?fpr=bbquoh) [![Pricing](https://img.shields.io/badge/Pricing-Pay_per_result-blue)](#pricing) [![Built for](https://img.shields.io/badge/Built_for-DTC_growth_agencies-orange)](#use-cases)
 
 Find Shopify stores by niche keyword, see what apps they run, score the opportunity, get pitch angles based on missing app categories. Built for DTC growth agencies running outbound on Klaviyo retainers. Pay per result, no monthly seat license.
 
-Live at: https://apify.com/george.the.developer/shopify-dtc-brand-discovery
+Live at: https://apify.com/george.the.developer/shopify-dtc-brand-discovery?fpr=bbquoh
 
 ## Why this exists
 
